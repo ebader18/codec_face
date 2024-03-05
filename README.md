@@ -1,2 +1,2 @@
 # codec_face
-Compression-based neural network forfaces
+Compression-based neural network for faces
